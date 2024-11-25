@@ -52,7 +52,7 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   column-gap: 30px;
-  padding: 260px 30px 130px 30px;
+  padding: 275px 30px 130px 30px;
 }
 
 .search-form {
