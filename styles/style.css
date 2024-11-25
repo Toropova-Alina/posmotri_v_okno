@@ -52,7 +52,7 @@ ol {
   flex-direction: row;
   align-items: center;
   column-gap: 30px;
-  margin: 270px 30px 130px 30px;
+  margin: 130px 30px;
   justify-content: center;
   height: 100%;
 }
